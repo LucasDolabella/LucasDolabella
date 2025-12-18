@@ -1,4 +1,7 @@
-## Hey there ![Wave](assets/animatedImg.gif)
+<h2>
+  Hey there
+  <img src="assets/animatedImg.gif" width="32" />
+</h2>
 
 Im Lucas, an Information Systems student based in Brazil.
 
