@@ -9,8 +9,10 @@ I enjoy designing and building solutions that can be applied in the real world.
 
 If an idea makes sense outside of theory, chances are I’ll try to turn it into something practical.
 
-**Hobbies:**  
-🎵 Playing music · 🎮 Gaming · 🛠️ Creating things
+**Hobbies:**
+- Playing music
+- Gaming
+- Creating things
 
 <!--
 **LucasDolabella/LucasDolabella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
