@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there ![Wave](assets/animatedImg..gif)
 
 Im Lucas, an Information Systems student based in Brazil.
 
