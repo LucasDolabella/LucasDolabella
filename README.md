@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hey there 👋
 
-Im Lucas, 
+Im Lucas, an Information Systems student based in Brazil.
+
 <!--
 **LucasDolabella/LucasDolabella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
