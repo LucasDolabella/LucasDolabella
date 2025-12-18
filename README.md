@@ -1,5 +1,5 @@
 <h2>
-  Hey there
+  Hey there!
   <img src="assets/animatedImg.gif" width="32" />
 </h2>
 
